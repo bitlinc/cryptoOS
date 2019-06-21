@@ -30,3 +30,5 @@ Related Links
 - https://docs.kali.org/downloading/kali-linux-live-usb-persistence
 - https://ubuntu.pkgs.org/18.04/ubuntu-restricted-amd64/bcmwl-kernel-source_6.30.223.271+bdcom-0ubuntu4_amd64.deb.html
 - https://help.ubuntu.com/community/mkusb#Persistent_live_systems
+- https://help.ubuntu.com/community/Boot-Repair
+- http://www.linuxliveusb.com/en/help/guide/step2
